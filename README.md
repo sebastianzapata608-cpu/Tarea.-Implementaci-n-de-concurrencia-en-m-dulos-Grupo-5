@@ -1,5 +1,9 @@
 # SIGET – Simulación de Concurrencia con Semáforos
+## 🎥 Video de evidencia
 
+En el siguiente enlace se puede visualizar la ejecución y explicación del proyecto:
+
+[Ver video de evidencia - Grupo 5](https://drive.google.com/file/d/1qeBv_OyZH8KAcNLeawm_QTQ0l8PmgsgY/view?usp=vids_web)
 ## Descripción del proyecto
 
 Este proyecto implementa una simulación del problema clásico **productor-consumidor**, adaptado al contexto del **Sistema Inteligente de Gestión de Tráfico (SIGET)**.
